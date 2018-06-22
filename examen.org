@@ -102,7 +102,7 @@
 :points: 1
 :END:
 
-1) Git pull
+1) Git pull 
 2) Git sube
 3) Git up
 4) Git push X
