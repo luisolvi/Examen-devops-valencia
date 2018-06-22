@@ -7,7 +7,6 @@
 #+LaTeX_CLASS_OPTIONS: [addpoints, 12]{exam}
 
 * Qué es un Devops
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -28,7 +27,6 @@
 4) Todas las anteriores X
 
 * Por qué la documentación es importante
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -39,7 +37,6 @@
 4) Evita rupturas de amistades y relaciones amorosas (true life)
 
 * Qué se gana con la cultura Devops
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -50,7 +47,6 @@
 4) Copón que sí! marcar la primera
 
 * Qué significa git clone en el control de versiones Git
-
 :PROPERTIES:
 :points: 0
 :END:
@@ -61,7 +57,6 @@
 4) Sincronizamos un dos repositorios
 
 * Cómo agregamos a la Git todos los ficheros de un directorio
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -72,7 +67,6 @@
 4) Git add *
 
 * Cómo creo una rama en Git
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -83,7 +77,6 @@
 4) Git branch nueva-rama X
 
 * Cuál es el comando más rápido para hacer un commit con mensaje
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -94,7 +87,6 @@
 4) Git mueve-tu-cosita
 
 * Cómo puedo ver los cambios que se produjeron en mi repositorio ayer
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -106,7 +98,6 @@
 4) Git diff "(yesterday)"
 
 * Con qué comando de Git subimos un fichero al repositorio del servidor
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -117,7 +108,6 @@
 4) Git push X
 
 * Cómo se sabe quien es la persona que ha modificado un archivo
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -133,7 +123,6 @@
 8) Git blame archivo
 
 * Cómo nos descargamos un contenedor con Docker
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -144,7 +133,6 @@
 4) docker push contenedor
 
 * Cómo ejecutamos de forma interactiva un contenedor
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -155,7 +143,6 @@
 4) docker sh -it contenedor
 
 * Cómo borramos una imagen con Docker
-
 :PROPERTIES:
 :points: 0
 :END:
@@ -166,7 +153,6 @@
 4) docker rmi imagen
 
 * Cuantas libertades tiene el software libre
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -177,7 +163,6 @@
 4) cuatro X
 
 * Cómo creo un directorio en bash
-
 :PROPERTIES:
 :points: 0
 :END:
@@ -188,7 +173,6 @@
 4) la primera, que sí, de verdad
 
 * En bash como borro un directorio
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -199,7 +183,6 @@
 4) mkrm directorio
 
 * Una forma rápida de crear un archivo en bash
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -210,7 +193,6 @@
 4) ls archivo
 
 * Qué es Redux
-
 :PROPERTIES:
 :points: 1
 :END:
@@ -221,7 +203,6 @@
 4) Una librería de javascript para reducir el consumo de las aplicaciones
 
 * Cual es el mejor sistema operativo del mundo
-
 :PROPERTIES:
 :points: 1
 :END:
